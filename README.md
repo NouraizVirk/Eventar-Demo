@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-> **🚀 Live Production App:** [eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar.vercel.app)  
+> **🚀 Live Production App:** [https://eventar.vercel.app](https://eventar.vercel.app)  
 > **📱 Mobile PWA:** Installable on iOS/Android devices (underdev) 
 > **🔐 Demo Access:** `demo@eventar.com` / `DemoUser2024!`
 
@@ -49,7 +49,7 @@ A comprehensive, production-ready event management system built with modern web 
 ## 🚀 Live Demo & Access
 
 ### **🌐 Production Application**
-**Live URL:** [https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar.vercel.app)
+**Live URL:** [https://eventar.vercel.app](https://eventar.vercel.app)
 
 
 ### **🔑 Demo Credentials**
@@ -410,7 +410,7 @@ Cumulative Layout Shift │ < 0.1
 ## 🔗 Links & Resources
 
 ### **🌐 Live Application**
-- **Production URL**: [eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar.vercel.app)
+- **Production URL**: [https://eventar.vercel.app](https://eventar.vercel.app)
 - **Mobile PWA**: Installable on iOS/Android devices
 - **Demo Access**: `demo@eventar.com` / `DemoUser2024!`
 
