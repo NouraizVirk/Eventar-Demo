@@ -1,12 +1,12 @@
 # 🎫 Eventar - Professional Event Management System
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge&logo=vercel)](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge&logo=vercel)](https://eventar.vercel.app)
 [![PWA](https://img.shields.io/badge/PWA-Enabled-blue?style=for-the-badge&logo=pwa)](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-> **🚀 Live Production App:** [eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)  
+> **🚀 Live Production App:** [eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar.vercel.app)  
 > **📱 Mobile PWA:** Installable on iOS/Android devices (underdev) 
 > **🔐 Demo Access:** `demo@eventar.com` / `DemoUser2024!`
 
@@ -49,7 +49,7 @@ A comprehensive, production-ready event management system built with modern web 
 ## 🚀 Live Demo & Access
 
 ### **🌐 Production Application**
-**Live URL:** [https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
+**Live URL:** [https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar.vercel.app)
 
 
 ### **🔑 Demo Credentials**
@@ -410,12 +410,12 @@ Cumulative Layout Shift │ < 0.1
 ## 🔗 Links & Resources
 
 ### **🌐 Live Application**
-- **Production URL**: [eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
+- **Production URL**: [eventar-ghruoi946-nouraiz-virks-projects.vercel.app](https://eventar.vercel.app)
 - **Mobile PWA**: Installable on iOS/Android devices
 - **Demo Access**: `demo@eventar.com` / `DemoUser2024!`
 
 ### **🛠️ Development**
-- **Repository**: [GitHub - NouraizVirk/Eventar](https://github.com/NouraizVirk/Eventar)
+- **Repository**: [GitHub - NouraizVirk/Eventar](https://github.com/NouraizVirk/Eventar)(private)
 - **Tech Stack**: Next.js 14, TypeScript, PostgreSQL, Prisma, Tailwind CSS
 - **Deployment**: Vercel with Neon PostgreSQL database
 - **Monitoring**: Built-in analytics and error tracking
@@ -426,7 +426,7 @@ Cumulative Layout Shift │ < 0.1
 
 **Developer**: Nouraiz Virk  
 **Email**: nouraiz.virk10@gmail.com  
-**Portfolio**: [Live Demo Available](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
+**Portfolio**: [Live Demo Available](https://eventar.vercel.app)
 
 ### **🤝 Professional Inquiries**
 - Available for technical discussions about implementation
@@ -439,8 +439,8 @@ Cumulative Layout Shift │ < 0.1
 
 **🎫 Eventar** - Professional Event Management System
 
-[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
-[![PWA](https://img.shields.io/badge/📱%20PWA-Install%20Now-blue?style=for-the-badge)](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://eventar.vercel.app)
+[![PWA](https://img.shields.io/badge/📱%20PWA-Install%20Now-blue?style=for-the-badge)](https://eventar.vercel.app)
 
 **Production Ready** • **Fully Deployed** • **Mobile Optimized** • **Scalable Architecture**
 
