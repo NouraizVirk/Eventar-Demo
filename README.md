@@ -1,5 +1,7 @@
 # 🎫 Eventar - Professional Event Management System
+> **Note:** The source code for this application is hosted in a private repository to protect proprietary security algorithms and system configurations. This public repository serves as an architectural overview and technical demonstration of the platform.
 
+---
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge&logo=vercel)](https://eventar.vercel.app)
 [![PWA](https://img.shields.io/badge/PWA-Enabled-blue?style=for-the-badge&logo=pwa)](https://eventar-ghruoi946-nouraiz-virks-projects.vercel.app)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
