@@ -9,7 +9,7 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Production-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
 > **🚀 Live Production App:** [https://eventar.vercel.app](https://eventar.vercel.app)  
-> **📱 Mobile PWA:** Installable on iOS/Android devices (underdev) 
+> **📱 Mobile PWA:** Installable on iOS/Android devices 
 > **🔐 Demo Access:** `demo@eventar.com` / `DemoUser2024!`
 
 A comprehensive, production-ready event management system built with modern web technologies. Features QR code-based ticketing, real-time scanning, Google Sheets integration, role-based access control, and automated email notifications. Deployed on Vercel with PostgreSQL database and full PWA support.
