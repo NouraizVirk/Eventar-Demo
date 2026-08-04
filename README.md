@@ -20,7 +20,7 @@
 
 > **Eventar is an enterprise-grade event management, real-time ticket generation, and automated check-in platform that seamlessly synchronizes attendee rosters from Google Sheets, generates cryptographically signed QR tickets, and enables instant mobile staff verification.**
 > 
-> **Note:** The source code for this application is hosted in a private repository to protect proprietary security algorithms and system configurations. This public repository serves as an architectural overview and technical demonstration of the platform.
+> **Note:** The source code for this application is hosted in a private repository to protect proprietary security algorithms and system configurations. This public repository serves as an architectural overview and technical demonstration of the platform. You can request the source code by emailing at nouraiz.virk10@gmail.com
 ---
 
 ## Table of Contents
