@@ -2,7 +2,7 @@
   <img src="logo.png" width="140" height="140" style="border-radius: 20%; object-fit: cover;" />
 </div>
 
-<h1 align="center">🎟️ Eventar</h1>
+<h1 align="center">Eventar</h1>
 
 <div align="center">
 
